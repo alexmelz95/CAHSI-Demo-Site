@@ -1,0 +1,25 @@
+nav.navbar{
+    background: #02679B;
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Open Sans", sans-serif;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+.content-inner {
+    width: 100%;
+}
+
+.content-inner.active {
+    width: 100%;
+}
